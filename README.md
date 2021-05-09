@@ -1,1 +1,1 @@
-# redux-demo
+# react-redux-demo
